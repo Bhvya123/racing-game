@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "three": "^0.149.0",
+    "webpack": "^5.75.0"
+  }
+}
